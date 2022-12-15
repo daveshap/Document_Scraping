@@ -1,0 +1,862 @@
+Alberta Community and Social Services Open Data
+Emergency Shelters Daily Occupancy Data
+
+Usage Considerations
+Definitions
+Capacity: The maximum amount of occupants that each shelter is licensed to have residing in the shelter at any given time according to fire code regulations.
+
+Total Overnight: The total number of individuals that were admitted to the shelter for an overnight stay at any point in the night.  
+
+Daytime Clients: The total number of individuals who were served within warming centres or 24/7 shelters in a 24 hour period (12:00am - 12:00am).
+
+Utilization Rates: A measure of how much shelter space is being utilized on average in a given month. Represented as a percentage of either the shelter's capacity, the number of funded spaces, or the number of rooms (i.e., within family emergency shelters). Calculated by dividing the average overnight occupancy by the average capacity/funded spaces.
+
+Notes for 2020 Data
+In 2020, occupancy is tallied somewhat differently from shelter to shelter. Some shelters conduct a one-time count at a given point in the night (e.g., 10:00pm; 5:00am). Others track the total number of individuals that have been admitted to the shelter for an overnight stay at any point in the night. These count methodologies provide somewhat different results as individuals will come and go through the night and may not be present for specific one-time counts.
+
+For Family Emergency Shelters (Inn from the Cold & Brenda's House), utilization rates are also reported based on the number of bedrooms, which is a more accurate representation of how full the shelter is (as often the families staying in rooms will be less than the capacity of the room).
+
+
+Isolation Measures 2022
+2022 July 1
+
+Calgary:
+  - CDIC closed
+
+Grande Prairie:
+  - Westport Hotel closed
+
+Edmonton:
+  - Travelodge Edmonton South closed
+
+2022 June 10
+
+Red Deer:
+  - Baymont Hotel closed
+
+2022 June 1
+
+Ft. McMurray:
+  - Salvation Army Isolation closed
+
+Calgary:
+  - The Days Inn closed
+
+Lethbridge:
+  - Knights Inn closed
+
+Medicine Hat:
+  - Hotels closed
+
+Peace River:
+  - Sagitawa Friendship Centre - Out of the Cold Shelter closed
+
+2022 May 1
+
+Cold Lake:
+  - Dr. Margaret Savage Crisis Centre Isolation closed
+
+2022 April 18
+
+Slave Lake:
+  - Slave Lake Homeless Coalition Shelter Isolation closed
+
+2022 April 1
+
+Wetaskiwin:
+  - ASIS closed
+
+2022 February 1
+
+Cold Lake:
+  - Dr. Margaret Savage Crisis Centre Isolation opened with capacity of 4
+
+2022 January 1
+
+Edmonton:
+  - Travelodge Edmonton South decreases capacity from 75 to 61
+
+Slave Lake:
+  - Slave Lake Homeless Coalition Shelter Isolation opened with capacity of 4
+
+Isolation Measures 2021
+2021 December 1
+
+Medicine Hat:
+  - Hotels opened
+  - Champion Centre closed
+
+2021 November 1
+
+Red Deer:
+  - Baymont Hotel reopened with capacity of 10
+
+2021 October 1
+
+Red Deer:
+  - Baymont Hotel closed
+
+Lac La Biche:
+  - Lakeland Out of the Elements closed
+
+2021 September 9
+
+Grande Prairie:
+  - Westport Hotel opened with capacity of 25
+
+2021 September 1
+
+Medicine Hat:
+  - Hotels closed
+  - Champion Centre opened with capacity of 6
+
+Calgary:
+  - Alpha House Main closed
+
+Lethbridge:
+  - Knights Inn reduces capacity from 32 to 30
+
+2021 August 1
+
+Grande Prairie:
+  - Westport Hotel closed
+  - Oasis Centre Cots closed
+
+2021 June 16
+
+Red Deer:
+  - Travelodge South closed
+  - Baymont Hotel reopened with capacity of 10
+
+2021 April 9
+
+Calgary:
+  - Mustard Seed closed
+
+2021 April 1
+
+Calgary:
+  - Alpha House decreases capacity from 11 to 9
+
+Red Deer:
+  - Travelodge South increases capacity from 11 to 30
+
+2021 February 16
+
+Calgary:
+  - The Days Inn increases capacity from 70 to 90
+
+2021 February 1
+
+Lac La Biche:
+  - Lakeland Out of the Elements increases capacity from 5 to 20
+
+2021 January 25
+
+Calgary:
+  - CDIC decreases capacity from 11 to 7
+  - Alpha House decreases capacity from 16 to 11
+
+2021 January 4
+
+Lac La Biche:
+  - Lakeland Out of the Elements opened with capacity of 5
+
+2021 January 1
+
+Grande Prairie:
+  - Westport Hotel decreases capacity from 42 to 20
+  - Oasis Centre Cots opened with capacity of 22
+
+Wetaskiwin:
+  - ASIS opened with capacity of 49
+
+Peace River:
+  - Sagitawa Friendship Centre - Out of the Cold Shelter opened with capacity As Needed
+
+Isolation Measures 2020
+2020 December 9
+
+Calgary:
+  - Lakeview Hotel closed
+  - The Days Inn opened with capacity of 70
+
+2020 December 8
+
+Edmonton:
+  - Travelodge Edmonton South increases capacity from 65 to 75
+
+2020 December 1
+
+Grande Prairie:
+  - Wild Rose Hotel closed
+  - Westport Hotel opened with capacity of 42
+
+Lethbridge:
+  - Alpha House closed
+  - Knights Inn opened with capacity of 32
+
+2020 November 27
+
+Red Deer:
+  - Travelodge South decreases capacity from As Needed to 11
+
+2020 November 23
+
+Grande Prairie:
+  - Wild Rose Hotel decreases capacity from 30 to 8
+
+2020 November 18
+
+Red Deer:
+  - Travelodge South increases capacity from 11 to As Needed
+
+2020 November 17
+
+Calgary:
+  - Mustard Seed increases capacity from 14 to 24
+
+2020 November 16
+
+Calgary:
+  - Alpha House increases capacity from 5 to 16
+
+2020 November 12
+
+Calgary:
+  - CDIC increases capacity from 7 to 11
+
+2020 November 1
+
+Medicine Hat:
+  - Hotels (Capacity 6)
+
+2020 October 27
+
+Red Deer:
+  - Baymont Hotel closed
+  - Travelodge South (Capacity 11)
+
+2020 October 22
+
+Edmonton:
+  - Travelodge Edmonton South increases capacity from 40 to 65
+
+2020 September 18
+
+Edmonton:
+  - Travelodge Edmonton South increases capacity from 15 to 40
+
+2020 August 16
+
+Edmonton:
+  - Expo Centre closed
+  - Travelodge Edmonton South (Capacity 15)
+
+2020 August 13
+
+Calgary:
+  - Mustard Seed increases capacity from 12 to 14
+
+2020 July 1
+
+Drayton Valley:
+  - Hotels closed
+
+Lethbridge:
+  - Alpha House (Capacity as needed)
+
+Ft. McMurray:
+  - Stonebridge Hotel closed
+  - Salvation Army Isolation (Capacity 2)
+
+2020 June 25 & 26
+
+Red Deer
+  - Amethyst Annex closed
+  - Baymont Hotel decreases capacity from 20 to 10
+
+2020 June 9
+
+Lethbridge:
+  - Superlodge Hotel closed
+
+2020 June 1
+
+Calgary:
+  - Alpha House decreases capacity from 14 to 5
+
+2020 May 1
+
+Calgary:
+  - CDIC (Capacity 7)
+  - Alpha House increases capacity from from 2 to 14
+
+Drayton Valley:
+  - Hotels (Capacity 6)
+
+2020 April 1
+
+Edmonton:
+  - Expo Centre (Capacity 200)
+
+Calgary:
+  - Lakeview Hotel (Capacity 100)
+  - Alpha House (Capacity 2)
+  - Mustard Seed (Capacity 12)
+
+Ft. McMurray:
+  - Stonebridge Hotel (Capacity 15)
+
+Grande Prairie:
+  - Wild Rose Hotel (Capacity 30)
+
+Lethbridge:
+  - Superlodge Hotel (Capacity 15)
+
+Medicine Hat:
+  - Hotels as Needed
+
+Red Deer:
+  - Amethyst Annex (Capacity 14)
+  - Baymont Hotel (Capacity 20)
+
+Social Distancing Measures 2022
+August 2022
+
+Edmonton:
+  - Mustard Seed Knox Church closed on August 1
+  - Mustard Seed Knox Church closed Day Time supports on August 1
+  - Mustard Seed Strathcona Baptist Church reopened on August 1 with capacity of 40
+  - Mustard Seed Strathcona Baptist Church reopened Day Time supports on August 1
+  - Mustard Seed Strathcona Baptist Church closed on August 20
+  - Mustard Seed Strathcona Baptist Church closed Day Time supports on August 20
+  - Mustard Seed Neighbourhood Centre opened on August 20 with capacity of 40
+  - Mustard Seed Neighbourhood Centre opened Day Time supports on August 20
+ - Hope Mission decreased capacity on August 1 from 275 to 125
+
+July 2022
+
+Grande Prairie:
+  - Rotary House Emergency increase capacity on July 1 from 87 to 91
+
+Peace River:
+  - Sagitawa Friendship Centre - Out of the Cold Shelter closed on July 1
+  - Sagitawa Friendship Centre - Out of the Cold Shelter closed Day Time Supports on July 1
+
+June 2022
+
+Edmonton:
+  - WEAC decreased capacity on June 1 from 64 to 57
+
+Wetaskiwin:
+  - Mustard Seed Wetaskiwin closed on June 1
+  - Mustard Seed Wetaskiwin Day Time closed on June 1
+
+May 2022
+
+Calgary:
+  - Salvation Army Wagner Centre reopened on May 24 with capacity of 18
+
+Lethbridge:
+  - Alpha House Lethbridge Shelter Short Term Supportive Housing closed on May 26
+  - Alpha House Soup Kitchen closed on May 28
+
+Cold Lake:
+  - Dr. Margaret Savage Crisis Centre closed on May 1
+  - Dr. Margaret Savage Crisis Centre Day Time closed on May 1
+
+April 2022
+
+Edmonton:
+  - Mustard Seed Holy Trinity Lutheran Church closed on April 1
+  - Mustard Seed Holy Trinity Lutheran Church closed Day Time supports on April 1
+  - Hope Mission Commonwealth Centre closed on April 1
+  - Hope Mission Commonwealth Centre closed Day Time supports on April 1
+  - Hope Mission closed Day Time supports on April 1
+
+Grande Prairie:
+  - Rotary House closed Day Time supports on April 1
+  - Saint Lawrence Centre closed on April 1
+  - Rotary House closed Winter Emergency Response on April 1
+
+Calgary:
+  - IFTC 3rd Floor decrease capacity on April 1 from 44 to 40
+  - IFTC Scattered Site increases capacity on April 1 from 36 to 40
+
+Medicine Hat:
+  - Medicine Hat Community Housing Society closed Day Time supports on April 1
+
+Lac La Biche:
+  - Lakeland Out of the Elements closed on April 1
+  - Lakeland Out of the Elements closed Day Time supports on April 1
+
+Slave Lake:
+  - Slave Lake Homeless Coalition Shelter closed on April 18
+
+Drayton Valley:
+  - Drayton Valley Community Mats closed on April 1
+
+Edson:
+  - Reflections Society for Empowering People to Succeed closed on April 1
+  - RSEPS closed Day Time supports on April 1
+
+March 2022
+
+Edmonton:
+  - Mustard Seed Strathcona Baptist Church closed on March 5
+  - Mustard Seed Strathcona Baptist Church closed Day Time supports on March 5
+  - Hope Mission increased capacity on March 9 from 225 to 275
+  - Hope Mission Spectrum closed on March 9
+
+Ft. McMurray:
+  - Salvation Army increases capacity on March 1 from 74 to 91
+
+Grande Prairie:
+  - Rotary House Emergency increase capacity on March 1 from 72 to 87
+
+Calgary:
+  - CDIC Riverfront increases capacity on March 1 from 659 to 1028
+  - CDIC Hillhurst closed on March 17
+  - Mustard Seed Emergency increases capacity on March 1 from 235 to 370
+  - Mustard Seed First Alliance closed on March 11
+
+Lethbridge:
+  - Lethbridge Shelter increases capacity on March 1 from 42 to 91
+  - Lethbridge Stabilization Centre closed on March 14
+  - Lethbridge Stabilization Centre reopened on March 29 with capacity of 26
+
+Medicine Hat:
+  - Salvation Army Centre of Hope increases capacity on March 1 from 25 to 30
+
+Lloydminster:
+  - Lloydminster Men's Shelter increases capacity on March 1 from 20 to 28
+
+February 2022
+
+Peace River:
+  - Sagitawa Friendship Centre - Out of the Cold Shelter Day Time Supports opened on February 1
+
+January 2022
+
+Edmonton:
+  - Mustard Holy Trinity Lutheran Church reopened on January 14 with capacity of 30
+  - Mustard Seed Holy Trinity Lutheran Church reopened Day Time supports on January 14
+  - Hope Mission increased capacity on January 12 from 175 to 225
+  - Hope Mission Commonwealth Centre decreased capacity on January 12 from 200 to 175
+  - Hope Mission Spectrum decreased capacity on January 12 from 200 to 150
+
+Grande Prairie:
+  - Rotary House opened up Winter Emergency Response on January 1 with capacity of 10
+
+Lethbridge:
+  - Alpha House Soup Kitchen reopened on January 6 with capacity of 23
+
+Slave Lake:
+  - Slave Lake Homeless Coalition Shelter opened on January 1 with capacity of 15
+
+Peace River:
+  - Sagitawa Friendship Centre - Out of the Cold Shelter opened on January 1 with capacity of 15
+
+Cold Lake:
+  - Dr. Margaret Savage Crisis Centre opened on January 1 with capacity of 12
+  - Dr. Margaret Savage Crisis Centre Day Time supports opened on January 1
+
+Social Distancing Measures 2021
+December 2021
+
+Edmonton:
+  - WEAC increases capacity on December 1 from 44 to 64
+  - Mustard Seed Knox Church increases capacity on December 1 from 33 to 40
+  - Mustard Seed Strathcona Baptist Church reopened on December 5 with capacity of 40
+  - Mustard Seed Strathcona Baptist Church reopened Day Time supports on December 5
+  - Hope Mission increased capacity on December 16 from 125 to 175
+  - Hope Mission Commonwealth Centre reopened on December 16 with capacity of 200
+  - Hope Mission Commonwealth Centre reopened Day Time supports on December 16
+
+Calgary:
+  - CDIC Hillhurst reopened on December 7 with capacity of 56
+
+Lethbridge:
+  - Lethbridge Shelter increases capacity on December 5 from 42 to 88
+  - Lethbridge Shelter decreases capacity on December 8 from 88 to 42
+  - Lethbridge Shelter Short Term Supportive Housing increased capacity on December 1 from 24 to 30
+
+Wetaskiwin:
+  - Mustard Seed Wetaskiwin opened on December 6 with capacity of 20
+  - Mustard Seed Wetaskiwin opened Dat Time supports on December 6
+
+Leduc:
+  - Leduc Hub reopened on December 1 with a capacity of 12
+
+Edson:
+  - Reflections Society for Empowering People to Succeed opened on December 1 with capacity of 5
+  - RSEPS opened Day Time supports on December 1
+
+November 2021
+
+Edmonton:
+  - Mustard Seed Knox Church reopened on November 4 with capacity of 33
+  - Mustard Seed Knox Church reopened Day Time supports on November 4
+
+October 2021
+
+Edmonton:
+  - Hope Mission decreased capacity on October 1 from 338 to 125
+  - Hope Mission opened Herb Jamieson Centre on October 1 with capacity of 400
+  - Hope Mission Spectrum increased capacity on October 1 from 150 to 200
+
+Calgary:
+  - CDIC Riverfront increases capacity on October 20 from 497 to 659
+  - Mustard Seed First Alliance reopened on October 18 with capacity of 120
+
+September 2021
+
+Edmonton:
+  - Mustard Seed Moravian Church closed on September 16
+  - Mustard Seed Moravian Church closed Day Time supports on September 16
+  - Mustard Seed Knox Church closed on September 15
+  - Mustard Seed Knox Church closed Day Time supports on September 15
+  - Mustard Seed Strathcona Baptist Church closed on September 5
+  - Mustard Seed Strathcona Baptist Church closed Day Time supports on September 5
+  - Hope Mission Central Baptist Church closed on September 1
+  - Salvation Army ARC increases capacity on September 1 from 115 to 148
+
+Calgary:
+  - CDIC Riverfront increases capacity on September 20 from 490 to 497  
+  - CDIC Hillhurst closed on September 1
+  - CDIC Days Inn Overflow closed on September 17
+  - Alpha House Hostel closed on September 1
+
+August 2021
+
+Edmonton:
+  - WEAC increases capacity on August 1 from 42 to 44
+  - Mustard Seed Knox Church increases capacity on August 1 from 33 to 35
+  - Holy Trinity Lutheran Church closed on August 1
+  - Holy Trinity Lutheran Church closed Day Time supports on August 1
+  - Strathcona Baptist Church increases capacity on August 1 from 24 to 40
+  - Strathcona Baptist Church reduces capacity on August 27 from 40 to 20
+
+Calgary:
+  - CDIC Hillhurst reduces closed on August 1
+  - Alpha House increases capacity on August 1 from 45 to 120
+  - Alpha House Mustard Seed building closed on August 1
+  - Mustard Seed First Alliance closed on August 1
+  - IFTC 3rd Floor increases capacity on August 1 from 8 to 44
+  - IFTC Scattered Site decreases capacity on August 1 from 40 to 36
+
+Red Deer:
+  - Mustard Seed People's Place increases capacity on August 1 from 23 to 46
+
+July 2021
+
+Calgary:
+  - Mustard Seed Emergency increases capacity on July 1 from 153 to 235
+
+Lethbridge:
+  - Alpha House Soup Kitchen closed on July 11
+
+June 2021
+
+Lethbridge:
+  - Alpha House Lethbridge Shelter Short Term Supportive Housing increased capacity on June 1 from 8 to 24
+
+May 2021
+
+Edmonton:
+  - Hope Mission Commonwealth Centre closed on May 6
+  - Hope Mission Commonwealth Centre closed Day Time supports on May 6
+  - Hope Mission Spectrum opened on May 6 with capacity of 150
+  - Hope Mission Spectrum opened Day Time supports on May 6
+  - Hope Mission reduces capacity on May 18 from 338 to 288
+  - Hope Mission increased capacity on May 26 from 288 to 338
+
+Lethbridge:
+  - Alpha House Lethbridge Shelter opened Short Term Supportive Housing on May 4 with capacity of 8
+
+Red Deer:
+  - Mustard Seed People's Place increases capacity on May 1 from 20 to 23
+
+April 2021
+
+Edmonton:
+  - Mustard Seed CESSCO closed on April 1
+  - Mustard Seed CESSCO closed Day Time supports on April 1
+  - Mustard Seed Knox Church opened on April 1 with capacity of 33
+  - Mustard Seed Knox Church opened Day Time supports on April 1
+  - Holy Trinity Lutheran Church reduces capacity on April 1 from 40 to 37
+  - Strathcona Baptist Church reduces capacity on April 1 from 30 to 24
+  - Strathcona Baptist Church opened Day Time supports on April 1
+
+Ft. McMurray:
+  - Salvation Army opened Day Time supports on April 1
+
+Grande Prairie:
+  - Rotary House opened Day Time supports on April 1
+  - Saint Lawrence Centre opened Day Time supports on April 1
+
+Calgary:
+  - CDIC Riverfront increases capacity on April 1 from 446 to 490
+  - CDIC Days Inn Overflow opened on April 1 with capacity of 28
+  - Mustard Seed Emergency decreases capacity on April 26 from 235 to 153
+
+Lethbridge:
+  - Lethbridge Stabilization Centre increases capacity on April 1 from 10 to 30
+
+Leduc:
+  - Leduc Hub closed on April 1
+
+Red Deer:
+  - Mustard Seed People's Place reduces capacity on April 20 from 23 to 20
+
+March 2021
+
+Edmonton:
+  - Hope Mission increases capacity on March 4 from 308 to 338
+
+Calgary:
+  - Salvation Army Wagner Centre closed down for 1 year
+
+February 2021
+
+Edmonton:
+  - Hope Mission data has been combined into one data point
+  - Salvation Army ARC increases capacity on February 10 from 108 to 115
+  - Holy Trinity Lutheran Church reduces capacity on February 9 from 50 to 40
+
+Calgary:
+  - Mustard Seed Emergency increases capacity on February 23 from 153 to 235
+
+Lethbridge:
+  - Lethbridge Shelter increases capacity on February 22 from 32 to 42
+
+January 2021
+
+Edmonton:
+  - Mustard Seed Moravian Church opened on January 14 with capacity of 20
+  - Mustard Seed Moravian Church opened Day Time supports on January 15
+
+Calgary:
+  - CDIC Riverfront increases capacity on January 18 from 389 to 446
+  - CDIC Hillhurst increases capacity on January 4 from 33 to 56
+  - Alpha House Clarion closed on January 15
+  - Alpha House Hostel opened on January 15 with capacity of 59
+  - Alpha House Hostel reduces capacity on January 25 from 59 to 48
+  - Mustard Seed First Alliance increases capacity on January 25 from 50 to 120
+
+Lethbridge:
+  - Lethbridge Shelter reduces capacity on January 20 from 35 to 32
+  - Lethbridge Stabilization Centre reduces capacity on January 20 from 11 to 10
+  - Alpha House Soup Kitchen reduces capacity on January 20 from 15 to 11
+
+Drayton Valley:
+  - Drayton Valley Community Mats opened on January 1 with capacity of 10
+
+Social Distancing Measures 2020
+
+December 2020
+
+Edmonton:
+  - Salvation Army ARC reduces capacity on December 4 from 148 to 108
+
+Lethbridge:
+  - Lethbridge Shelter reduces capacity on December 1 from 60 to 35
+  - Lethbridge Stabilization Centre reduces capacity on December 1 from 21 to 11
+  - Alpha House Soup Kitchen reduces capacity on December 1 from 30 to 15
+
+Medicine Hat:
+  - Medicine Hat Community Housing Society opened Day Time supports on December 1
+
+Leduc:
+  - Leduc Hub opened up on December 1 with capacity of 12
+
+November 2020
+
+Edmonton:
+  - WEAC increases capacity on November 25 from 38 to 40
+  - Mustard Seed CESSCO opened on November 1 with capacity of 100
+  - Mustard Seed CESSCO opened Day Time supports on November 1
+  - Mustard Seed CESSCO decreases capacity on November 23 from 100 to 80
+  - Hope Mission Commonwealth Centre opened on October 23 with capacity of 180
+  - Hope Mission Commonwealth Centre opened Day Time supports on November 16
+
+Calgary:
+  - CDIC Hillhurst reduces capacity on November 15 from 56 to 33
+  - Salvation Army Centre of Hope increases capacity on November 15 from 47 to 80
+  - Alpha House decreases capacity on November 12 from 88 to 45
+  - Alpha House takes over a Mustard Seed building on November 16 and opens up with capacity of 42
+  - Mustard Seed Emergency reduces capacity on November 24 from 235 to 153
+  - Mustard Seed First Alliance reduces capacity on November 17 from 120 to 50
+
+Lethbridge:
+  - Alpha House Soup Kitchen opened on November 18 with capacity of 30
+
+October 2020
+
+Edmonton:
+  - Hope Mission Central Lion closed on October 23
+  - Hope Mission Commonwealth Centre opened on October 23 with capacity of 180
+
+Grande Prairie:
+  - Saint Lawrence Centre opened on October 20 with capacity of 13
+
+Calgary:
+  - CDIC Riverfront increase capacity on October 16 from 227 to 389
+  - IFTC Scattered Site increases capacity on October 1 from 32 to 40
+
+Lac La Biche:
+  - Lakeland Out of the Elements opened on October 1 with capacity 6
+  - Lakeland Out of the Elements opened Day Time supports on October 1
+
+September 2020
+
+Edmonton:
+  - Hope Mission reduces capacity on September 18 from 380 to 300
+
+Calgary:
+  - Salvation Army Centre of Hope increase capacity on September 1 from 45 to 47
+  - Alpha House increases capacity on September 3 from 45 to 88
+
+Lac La Biche:
+  - Lakeland Out of the Elements closed on September 1
+  - Lakeland Out of the Elements closed Day Time supports on September 1
+
+August 2020
+
+Edmonton:
+  - Holy Trinity Lutheran Church opened Day Time supports on August 4
+
+Grande Prairie:
+  - Oasis Centre closed on August 1
+  - Dave Barr Arena closed on August 1
+
+Calgary:
+  - CDIC Riverfront decreases capacity on August 25 from 389 to 227
+  - Alpha House decreases capacity on August 21 from 88 to 45
+  - Alpha House Clarion sets capacity on August 21 to 59
+
+2020 July
+
+Calgary:
+  - IFTC Scattered Site reduces capacity on July 1 from 36 to 32  
+
+Edmonton:
+  - Kinsmen closed on July 5
+  - Holy Trinity Lutheran Church opened on July 6 with capacity 50
+  - Strathcona Baptist Church opened on July 13 with capacity of 30
+
+Ft. McMurray:
+  - Salvation Army relocated back to shelter on July 1 with capacity of 86
+  - Salvation Army reduces capacity on July 22 from 86 to 74
+
+Red Deer:
+  - People's Place City Chapel closed on July 1
+
+Lloydminster:
+  - Lloydminster Men's Shelter reduces capacity on July 1 from 28 to 20
+
+Drayton Valley:
+  - Calvary Church closes on July 1
+
+2020 June
+
+Calgary:
+  - CDIC Riverfront increases capacity on June 26 from 220 to 389
+  - Telus Convention Centre closed on June 26
+  - Alpha House increases capacity on June 24 from 45 to 88
+  - YWCA increases capacity on June 1 from 10 to 20
+
+Lethbridge:
+  - Alpha House - Seniors Citizen Organization closed on June 15
+  - Lethbridge Stabilization Centre opened on June 15 with capacity of 21
+
+2020 May
+
+Edmonton:
+  - WEAC reduces capacity on May 1 from 43 to 38
+
+Calgary:
+  - Alpha House reduces capacity on May 4 from 88 to 45
+  - Alpha House Clarion sets capacity on May 4 to As Needed
+
+Ft. McMurray:
+  - Salvation Army reduces capacity on May 4 from 40 to 38
+
+2020 April
+
+Edmonton:
+  - Kinsmen opened on April 1 with capacity of 180
+
+Calgary:
+  - CDIC Riverfront Emergency reduces capacity on April 1 from 850 to 392
+  - CDIC Hillhurst reduces capacity on April 1 from 125 to 56
+  - Alpha House reduces capacity on April 1 from 120 to 88
+  - Mustard Seed reduces capacity on April 1 from 370 to 235
+  - Telus Convention Centre opened on April 1 with capacity of 350
+  - Salvation Army Centre of Hope reduces capacity on April 1 from 80 to 45
+  - Alpha House Clarion opened on April 1 with capacity of 40
+  - Mustard Seed First Alliance opened on April 1 with capacity of 120
+  - IFTC 3rd Floor reduces capacity on April 1 from 80 to 8
+  - IFTC 2nd Floor reduces capacity on April 1 from 40 to 4
+
+Ft. McMurray: 
+  - Salvation Army's Emergency & Mat programs relocated to the Salvation Army Church on April 1 with capacity of 40
+
+Grande Prairie:
+  - Rotary House Emergency reduces capacity on April 1 from 92 to 72
+  - Rotary House STSH reduces capacity on April 1 from 48 to 34
+  - Oasis Centre opened on April 1 with capacity of 23
+  - Dave Barr Arena opened on April 1 with capacity of 43
+
+Lethbridge:
+  - Lethbridge Shelter reduces capacity on April 1 from 141 to 60
+  - Alpha House Seniors Citizens Org opened on April 1 with capacity of 65
+
+Medicine Hat:
+  - Salvation Army Centre of Hope reduces capacity on April 1 from 30 to 25
+  - Hotels opened on April 1 on an As Needed basis
+
+Red Deer:
+  - Mustard Seed People's Place reduces capacity on April 1 from 46 to 23
+  - People's Place City Chapel opened on April 1 with capacity of 23
+  - Safe Harbour closed and relocated to Cannery Row on April 1 with capacity of 100
+
+Lloydminster:
+  - Men's Shelter secures an additional site if needed
+
+Lac La Biche:
+  - Lakeland Out of the Elements opened on April 1 with capacity of 6
+  - Lakeland Out of the Elements opened Day Time supports on April 1
+
+Drayton Valley:
+  - Calvary Church opened on April 1 with capacity of 10
+  - Drayton Valley opened Day Time supports on April 21
+
+Edmonton:
+  - Central Baptist reduces capacity on April 7 from 72 to 60
+
+Calgary:
+  - CDIC Riverfront combines capacity for both Emergency and STSH on April 28 to 220
+
+2020 March
+
+Edmonton:
+  - WEAC reduces capacity on March 26 from 66 to 43
+  - Hope Mission reduces capacity on March 28 from 540 to 380
+  - Hope Mission Central Baptist opened on March 23 with capacity of 72
+  - Hope Mission Central Lion opened on March 30 with capacity of 100
+
+Calgary:
+  - IFTC Scattered Site opened on March 22 with capacity of 36
+
+Lethbridge:	
+  - LSRC closed and relocated to Alpha House Lethbridge Shelter on March 22 with capacity of 141
+
+
+	
+
+Version 3.4
+				1
+Updated: August 2022
+
